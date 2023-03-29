@@ -1,2 +1,1 @@
-# projeto-social
- 
+Este é um pequeno texto sobre o projeto de rede social. Para visualizar o projeto, foi utilizado o elemento iframe para incorporar o conteúdo da página web. Acesse o link https://rafaelribeirong.github.io/projeto-social/ para conferir o projeto completo.
